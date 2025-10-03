@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hi, It's glad to see you here. I am Changjun Li, the third year of Chongqing University of Posts and Telecommunications, majoring in Intelligent Science and Technology + Mathematics and Applied Mathematics. Now I am working under the awesome guidance of Yonghong Li. My research includes DeepLearning and Granular-ball Computing. Of course, I am also doing rearch in LLM. I’m super into classic music and playing the piano (I was once admitted to the Gulangyu Piano School of the Central Conservatory of Music.) -- can’t get enough of them! 🆗, Best wishes for fueature!
+👋 Hi, It's glad to see you here. I am Changjun Li, the third year of University. Now I am working under the awesome guidance of Yonghong Li. My research includes DeepLearning and Granular-ball Computing. Of course, I am also doing rearch in LLM. I’m super into classic music and playing the piano (I was once admitted to the Gulangyu Piano School of the Central Conservatory of Music.) -- can’t get enough of them! 🆗, Best wishes for fueature!
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
